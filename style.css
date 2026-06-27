@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+button{
+    width: 300px;
+    display: block;
+    margin: 5px auto;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#increment-button {
+    background-color: red;
+}
+#save-btn {
+    background-color: green;
+}
